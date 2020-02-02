@@ -38,4 +38,4 @@ module PinYin
   end
 end
 
-PinYin.backend = PinYin::Backend::MMSeg.new
+PinYin.backend = PinYin::Backend::EZSeg.new
