@@ -1,7 +1,7 @@
-require 'ruby-pinyin/util'
-require 'ruby-pinyin/value'
-require 'ruby-pinyin/punctuation'
-require 'ruby-pinyin/backend'
+require 'ruby-pinyin-ez/util'
+require 'ruby-pinyin-ez/value'
+require 'ruby-pinyin-ez/punctuation'
+require 'ruby-pinyin-ez/backend'
 
 module PinYin
   class <<self
